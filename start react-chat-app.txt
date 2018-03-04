@@ -1,3 +1,0 @@
-D:\wamp\www\React Projects\react-chat-app>npm start
-
-D:\wamp\www\React Projects\react-chat-app\server>node app.js
